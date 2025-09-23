@@ -1,0 +1,20 @@
+:root {
+    background-color: #3f3a3a;
+}
+
+.fc-daygrid-day {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  width: 100px;
+  height: 100px;
+}
+
+.fc-media-screen{
+  width: 800px;
+  height: 800px;
+}
+
+.fc-col-header{
+  background-color:rgb(29, 29, 199);
+  color:rgb(243, 0, 0);
+}
